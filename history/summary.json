@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/redsevenstudios.com.ico",
     "slug": "red-7-studios",
     "status": "up",
-    "uptime": "0.57%",
-    "uptimeDay": "0.57%",
-    "uptimeWeek": "0.57%",
-    "uptimeMonth": "0.57%",
-    "uptimeYear": "0.57%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 846,
     "timeDay": 846,
     "timeWeek": 846,
     "timeMonth": 846,
     "timeYear": 846,
-    "dailyMinutesDown": {
-      "2024-02-12": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
