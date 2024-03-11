@@ -4,17 +4,19 @@
     "url": "https://redsevenstudios.com",
     "icon": "https://icons.duckduckgo.com/ip3/redsevenstudios.com.ico",
     "slug": "red-7-studios",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2055,
-    "timeDay": 2284,
-    "timeWeek": 2208,
-    "timeMonth": 2055,
-    "timeYear": 2055,
-    "dailyMinutesDown": {}
+    "time": 1995,
+    "timeDay": 1259,
+    "timeWeek": 1962,
+    "timeMonth": 1995,
+    "timeYear": 1995,
+    "dailyMinutesDown": {
+      "2024-03-11": 0
+    }
   }
 ]
